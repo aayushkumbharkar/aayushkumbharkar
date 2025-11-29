@@ -1,12 +1,3 @@
-<div align="center">
-  <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"/>
-  Hi, I'm <strong>Aayush Kumbharkar</strong>
-  <img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" width="22px"/>
-  <br/>
-  <sub>B.Tech Data Science • AI & ML • github.com/aayushkumbharkar</sub>
-</h1>
-</div>
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"/>
@@ -28,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"/> Portfolio coming soon
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25px"/> Reach me: <strong>aayushkumbharkar07@gmail.com</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25px"/> Reach me: <strong>aayushkumbharkar53@gmail.com</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25px"/> Currently working on <strong>AI-driven automation + LLM tools</strong>
