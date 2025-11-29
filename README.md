@@ -106,6 +106,13 @@
 
 <br/>
 
+## ☕ Support My Work
+
+If you enjoy my projects or they helped you in any way, consider supporting me.  
+It helps me spend more time building tools, experimenting with AI, and pushing new ideas into the world.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-F7CA3E?style=for-the-badge&logo=buymeacoffee&logoColor=000)](https://buymeacoffee.com/aayushkumbk)
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39" alt="Fun GIF">
 </div>
