@@ -44,6 +44,7 @@
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="30px"/> Connect with me</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush_Kumbharkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-kumbharkar)
+[![Email](https://img.shields.io/badge/Email-aayushkumbharkar53@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushkumbharkar53@gmail.com)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px"/>
 
 
