@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" width="100%" alt="Profile Banner">
+  <h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"/>
+  Hi, I'm <strong>Aayush Kumbharkar</strong>
+  <img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" width="22px"/>
+  <br/>
+  <sub>B.Tech Data Science • AI & ML • github.com/aayushkumbharkar</sub>
+</h1>
 </div>
 
 <h1>
