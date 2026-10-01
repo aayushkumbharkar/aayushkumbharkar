@@ -1,4 +1,3 @@
-
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"/>
   Hey, I'm <a href="https://linkedin.com/in/aayush-kumbharkar"><strong>Aayush</strong></a>!
@@ -16,7 +15,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="25px"/> Based in <strong>Pune, India</strong>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"/> Portfolio coming soon
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"/> Portfolio: <a href="https://aayush-kumbharkar.vercel.app/"><strong>aayush-kumbharkar.vercel.app</strong></a>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25px"/> Reach me: <strong>aayushkumbharkar53@gmail.com</strong>
